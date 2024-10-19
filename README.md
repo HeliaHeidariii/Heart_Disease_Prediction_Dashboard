@@ -1,0 +1,2 @@
+# Heart_Disease_Prediction_Dashboard
+ This Python project implements a graphical user interface (GUI) to predict heart disease based on patient data using machine learning algorithms like KNN, SVM, Decision Tree, Random Forest, and Logistic Regression. The predictions, along with evaluation metrics such as accuracy, recall, precision, and F1 score, are displayed in a simple interface built using Tkinter.
